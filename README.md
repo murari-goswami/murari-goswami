@@ -1,11 +1,6 @@
-<!---
-Please consider starring the repo if you find this useful in any manner
-or use it. It helps me a lot.
--->
-
 <h2>HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
 
-![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
+/* ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)*/
 
 
 ### Here is what I am working on 👋
